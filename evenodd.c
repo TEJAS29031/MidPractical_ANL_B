@@ -14,5 +14,6 @@ if(no%2==0)
 else
   printf("odd");
 }
+yo yo 
 
 
