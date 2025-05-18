@@ -15,4 +15,4 @@ int main() {
     
     return 0;
 }
-23bcnb57 Tejaskumar_29 notmid
+23bcnb57 Tejaskumar_29 notmid or adi is mid
